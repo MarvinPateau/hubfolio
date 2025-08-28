@@ -1,0 +1,7 @@
+* text=auto
+*.png binary -diff
+*.jpg binary -diff
+*.jpeg binary -diff
+*.gif binary -diff
+*.mp4 binary -diff
+*.zip binary -diff
