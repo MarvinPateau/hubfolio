@@ -1,0 +1,19 @@
+{
+  "name": "hubfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "vitest",
+    "build": "echo 'build'",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^9.34.0",
+    "vitest": "^3.2.4"
+  }
+}
