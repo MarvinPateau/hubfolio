@@ -1,0 +1,14 @@
+{
+  "name": "hubfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "echo 'Aucun lint configure'",
+    "test": "echo 'Aucun test'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
